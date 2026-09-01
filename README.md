@@ -15,7 +15,7 @@
   <a href="mailto:freddysz894@gmail.com">
     <img src="https://img.shields.io/badge/Email-freddysz894%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="portafolio-self-delta-26.vercel.app">
+  <a href="https://portafolio-self-delta-26.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-Visitar-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/freddysanchez-dev">
