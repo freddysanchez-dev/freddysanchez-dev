@@ -46,15 +46,17 @@
 ---
 
 <!-- ============================================ -->
-<!-- HABILIDADES TÉCNICAS (CON GRÁFICA)           -->
+<!-- HABILIDADES TÉCNICAS (CON GRÁFICA REAL)      -->
 <!-- ============================================ -->
 
 ## Stack Tecnológico
 
-### Distribución de Lenguajes más Utilizados
+### Lenguajes más utilizados en mis repositorios
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%27%2C%27Python%27%2C%27C%23%27%2C%27SQL%27%2C%27PHP%27%2C%27HTML%2FCSS%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B30%2C20%2C15%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%23F7DF1E%27%2C%27%233776AB%27%2C%27%23512BD4%27%2C%27%234479A1%27%2C%27%23777BB4%27%2C%27%23E34F26%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%7D%7D%7D%7D%7D" alt="Distribución de lenguajes" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddysanchez-dev&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Lenguajes más usados" width="400" />
+  <br />
+  <sub><i>Distribución basada en repositorios públicos</i></sub>
 </div>
 
 ---
@@ -285,7 +287,7 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 ---
 
 <!-- ============================================ -->
-<!-- ESTADÍSTICAS DE GITHUB (CORREGIDAS)          -->
+<!-- ESTADÍSTICAS DE GITHUB                       -->
 <!-- ============================================ -->
 
 ## Estadísticas de GitHub
@@ -341,6 +343,3 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 <!-- ============================================ -->
 <!-- FIN DEL README                               -->
 <!-- ============================================ -->
-    
-
- 
