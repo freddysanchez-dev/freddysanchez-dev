@@ -46,20 +46,10 @@
 ---
 
 <!-- ============================================ -->
-<!-- HABILIDADES TÉCNICAS (CON GRÁFICA REAL)      -->
+<!-- HABILIDADES TÉCNICAS                         -->
 <!-- ============================================ -->
 
 ## Stack Tecnológico
-
-### Lenguajes más utilizados en mis repositorios
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddysanchez-dev&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Lenguajes más usados" width="400" />
-  <br />
-  <sub><i>Distribución basada en repositorios públicos</i></sub>
-</div>
-
----
 
 ### Lenguajes de Programación
 
@@ -287,7 +277,7 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 ---
 
 <!-- ============================================ -->
-<!-- ESTADÍSTICAS DE GITHUB                       -->
+<!-- ESTADÍSTICAS DE GITHUB (CORREGIDAS)          -->
 <!-- ============================================ -->
 
 ## Estadísticas de GitHub
@@ -296,23 +286,25 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" alt="Estadísticas de GitHub" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="100%" />
         <br />
-        <sub><i>Estadísticas generales de actividad</i></sub>
+        <sub>Estadísticas generales de actividad</sub>
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=freddysanchez-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="Racha de contribuciones" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=freddysanchez-dev&theme=radical&hide_border=true" alt="Racha de contribuciones" width="100%" />
         <br />
-        <sub><i>Racha de contribuciones diarias</i></sub>
+        <sub>Racha de contribuciones diarias</sub>
       </td>
     </tr>
   </table>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddysanchez-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Lenguajes más usados" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddysanchez-dev&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="45%" />
   <br />
-  <sub><i>Lenguajes más utilizados en mis repositorios</i></sub>
+  <sub>Lenguajes más utilizados en mis repositorios</sub>
 </div>
 
 ---
