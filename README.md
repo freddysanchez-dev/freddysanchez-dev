@@ -231,37 +231,14 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 ---
 
 <!-- ============================================ -->
-<!-- ESTADÍSTICAS DE GITHUB (SIMPLES)            -->
+<!-- CONTADOR DE VISITAS                         -->
 <!-- ============================================ -->
-
-## Estadísticas de GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8" alt="Estadísticas de GitHub" width="100%" />
-        <br />
-        <sub>Estadísticas generales de actividad</sub>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=freddysanchez-dev&theme=default&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8" alt="Racha de contribuciones" width="100%" />
-        <br />
-        <sub>Racha de contribuciones diarias</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=freddysanchez-dev&label=Visitas+al+Perfil&color=00B4D8&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
+  
+  <br /><br />
+  
   <i>"Construyendo soluciones innovadoras con código, datos e inteligencia artificial"</i>
 </div>
 
