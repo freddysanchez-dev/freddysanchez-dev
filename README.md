@@ -1,4 +1,3 @@
-
 <!-- ============================================ -->
 <!-- HEADER / PERFIL PROFESIONAL                   -->
 <!-- ============================================ -->
@@ -35,14 +34,14 @@
 <!-- PERFIL PROFESIONAL                           -->
 <!-- ============================================ -->
 
-## 👨‍💻 Sobre Mí
+## Sobre Mí
 
 > **Desarrollador Full-Stack y Analista de Datos** con +1 año de experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y soluciones de inteligencia de negocios.
 
-- 🚀 Especializado en **JavaScript (React, Node.js), C# (.NET), Python y SQL**
-- 📊 Enfoque en **optimización de rendimiento** y **toma de decisiones basada en datos**
-- 🤖 Apasionado por **metodologías ágiles**, **automatización con IA** y productos digitales de alto valor
-- 🎯 Busco aportar capacidad técnica y analítica a equipos dinámicos
+- Especializado en **JavaScript (React, Node.js), C# (.NET), Python y SQL**
+- Enfoque en **optimización de rendimiento** y **toma de decisiones basada en datos**
+- Apasionado por **metodologías ágiles**, **automatización con IA** y productos digitales de alto valor
+- Busco aportar capacidad técnica y analítica a equipos dinámicos
 
 ---
 
@@ -50,9 +49,9 @@
 <!-- HABILIDADES TÉCNICAS (CON GRÁFICA)           -->
 <!-- ============================================ -->
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### 📊 Distribución de Lenguajes más Utilizados
+### Distribución de Lenguajes más Utilizados
 
 <div align="center">
   <img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%27%2C%27Python%27%2C%27C%23%27%2C%27SQL%27%2C%27PHP%27%2C%27HTML%2FCSS%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B30%2C20%2C15%2C15%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%23F7DF1E%27%2C%27%233776AB%27%2C%27%23512BD4%27%2C%27%234479A1%27%2C%27%23777BB4%27%2C%27%23E34F26%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%7D%7D%7D%7D%7D" alt="Distribución de lenguajes" width="400" />
@@ -60,7 +59,7 @@
 
 ---
 
-### 🔹 Lenguajes de Programación
+### Lenguajes de Programación
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -72,7 +71,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🔹 Frameworks & Librerías
+### Frameworks y Librerías
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -82,7 +81,7 @@
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-### 🔹 Bases de Datos
+### Bases de Datos
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -92,7 +91,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🔹 Data & BI
+### Data y Business Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -100,7 +99,7 @@
   <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 🔹 DevOps & Herramientas
+### DevOps y Control de Versiones
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -109,7 +108,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🔹 Metodologías
+### Metodologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -123,29 +122,29 @@
 <!-- EXPERIENCIA PROFESIONAL                      -->
 <!-- ============================================ -->
 
-## 💼 Experiencia Profesional
+## Experiencia Profesional
 
-### 🏢 **Desarrollador Full-Stack** | B Solutions Group
+### B Solutions Group | Desarrollador Full-Stack
 *08/2025 - 11/2025*
 
 | Logro | Impacto |
 |-------|---------|
-| ⚡ Optimización de consultas SQL Server | Reducción del **60%** en tiempo de respuesta |
-| 🚀 Lazy loading y optimización de assets | Aceleración de carga del **80%** |
-| 🌳 Módulo de Riesgo Operacional (árbol jerárquico) | Gestión de **+500 registros** con MVC |
-| 🔌 Integración de APIs RESTful | Comunicación fluida frontend-backend |
-| ♻️ Componentes reutilizables en React | Reducción del **30%** en tiempo de desarrollo futuro |
+| Optimización de consultas SQL Server | Reducción del **60%** en tiempo de respuesta |
+| Lazy loading y optimización de assets | Aceleración de carga del **80%** |
+| Módulo de Riesgo Operacional (árbol jerárquico) | Gestión de **+500 registros** con MVC |
+| Integración de APIs RESTful | Comunicación fluida frontend-backend |
+| Componentes reutilizables en React | Reducción del **30%** en tiempo de desarrollo futuro |
 
 ---
 
-### 📊 **Analista de Datos** | INCOEX
+### INCOEX | Analista de Datos
 *08/2025*
 
 | Logro | Impacto |
 |-------|---------|
-| 📈 Análisis con Pandas y SQL | Identificación de tendencias clave para decisiones estratégicas |
-| 📉 Dashboards interactivos en Power BI | Monitoreo en tiempo real de KPIs |
-| 📋 Métodos estadísticos y minería de datos | Mejora del **25%** en planificación operativa |
+| Análisis con Pandas y SQL | Identificación de tendencias clave para decisiones estratégicas |
+| Dashboards interactivos en Power BI | Monitoreo en tiempo real de KPIs |
+| Métodos estadísticos y minería de datos | Mejora del **25%** en planificación operativa |
 
 ---
 
@@ -153,25 +152,25 @@
 <!-- PROYECTOS DESTACADOS (CON Q&A)              -->
 <!-- ============================================ -->
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ---
 
-### 📦 **Abarcasas - Logística**
+### Abarcasas - Logística
 *Universidad de Costa Rica | 04/2025*
 
 **Descripción:** Sistema de simulación de eventos discretos para optimizar procesos logísticos, procesando más de 1,000 eventos por ejecución y generando dashboards interactivos para la toma de decisiones.
 
-#### ❓ Preguntas Frecuentes (FAQ)
+#### Preguntas Frecuentes
 
 <details>
-<summary><b>🔹 ¿Cuál fue el principal desafío técnico?</b></summary>
+<summary><b>Cual fue el principal desafío técnico?</b></summary>
 <br/>
 El mayor desafío fue diseñar una arquitectura escalable en Node.js que pudiera procesar más de 1,000 eventos por ejecución sin degradar el rendimiento. Implementé un sistema de colas y manejo de errores eficiente que logró mejorar la disponibilidad del sistema en un <b>25%</b>.
 </details>
 
 <details>
-<summary><b>🔹 ¿Cómo se midió el éxito del proyecto?</b></summary>
+<summary><b>Como se midió el éxito del proyecto?</b></summary>
 <br/>
 El éxito se midió mediante:
 <ul>
@@ -182,7 +181,7 @@ El éxito se midió mediante:
 </details>
 
 <details>
-<summary><b>🔹 ¿Qué tecnologías se usaron y por qué?</b></summary>
+<summary><b>Que tecnologías se usaron y por qué?</b></summary>
 <br/>
 <ul>
   <li><b>Node.js:</b> Por su eficiencia en operaciones I/O y manejo de eventos asíncronos</li>
@@ -192,40 +191,40 @@ El éxito se midió mediante:
 </details>
 
 <details>
-<summary><b>🔹 ¿Qué aprendiste de este proyecto?</b></summary>
+<summary><b>Que aprendiste de este proyecto?</b></summary>
 <br/>
 Aprendí la importancia de diseñar sistemas escalables desde el inicio y cómo una buena arquitectura de backend puede marcar la diferencia en el rendimiento general del sistema. También reforcé mis habilidades en Node.js y en el manejo de grandes volúmenes de datos.
 </details>
 
 <details>
-<summary><b>🔹 ¿Cómo contribuyó este proyecto a la empresa/organización?</b></summary>
+<summary><b>Como contribuyó este proyecto a la organización?</b></summary>
 <br/>
 La herramienta permitió al equipo logístico <b>optimizar rutas y tiempos de entrega</b>, reduciendo costos operativos y mejorando la eficiencia general. Los dashboards facilitaron la identificación de cuellos de botella en la cadena de suministro.
 </details>
 
 ---
 
-### 💪 **PowerGym - Plataforma de Recomendación de Ejercicios**
+### PowerGym - Plataforma de Recomendación de Ejercicios
 *Universidad de Costa Rica | 04/2025 - 06/2025*
 
 **Descripción:** Plataforma web que genera rutinas de ejercicio personalizadas usando inteligencia artificial (OpenAI GPT), adaptadas a las condiciones físicas de cada usuario para prevenir lesiones y maximizar resultados.
 
-#### ❓ Preguntas Frecuentes (FAQ)
+#### Preguntas Frecuentes
 
 <details>
-<summary><b>🔹 ¿Por qué integrar la API de OpenAI?</b></summary>
+<summary><b>Por qué integrar la API de OpenAI?</b></summary>
 <br/>
 La integración de OpenAI GPT permitió generar <b>rutinas de ejercicio dinámicas y personalizadas</b> en tiempo real, algo que no sería posible con un sistema estático. Esto dio un valor diferencial al producto, haciéndolo inteligente y adaptativo.
 </details>
 
 <details>
-<summary><b>🔹 ¿Cómo se manejó la seguridad de los datos del usuario?</b></summary>
+<summary><b>Como se manejó la seguridad de los datos del usuario?</b></summary>
 <br/>
 Se implementaron <b>buenas prácticas de seguridad</b> en el backend con C# .NET, incluyendo validación de entradas, manejo seguro de datos sensibles y uso de Entity Framework con parámetros para evitar inyecciones SQL.
 </details>
 
 <details>
-<summary><b>🔹 ¿Cómo se midió la mejora en la experiencia de usuario?</b></summary>
+<summary><b>Como se midió la mejora en la experiencia de usuario?</b></summary>
 <br/>
 La experiencia de usuario mejoró en un <b>40%</b> según métricas de usabilidad, gracias a:
 <ul>
@@ -236,13 +235,13 @@ La experiencia de usuario mejoró en un <b>40%</b> según métricas de usabilida
 </details>
 
 <details>
-<summary><b>🔹 ¿Qué arquitectura se utilizó?</b></summary>
+<summary><b>Que arquitectura se utilizó?</b></summary>
 <br/>
 Se utilizó el patrón <b>MVC (Model-View-Controller)</b> con C# .NET y Entity Framework para el backend, y JavaScript para el frontend. Esto permitió una clara separación de responsabilidades y facilitó el mantenimiento del código.
 </details>
 
 <details>
-<summary><b>🔹 ¿Qué impacto tuvo el proyecto en los usuarios?</b></summary>
+<summary><b>Que impacto tuvo el proyecto en los usuarios?</b></summary>
 <br/>
 Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutinas adaptadas a sus condiciones físicas, reduciendo el riesgo de lesiones y mejorando sus resultados. La plataforma recibió comentarios muy positivos por su facilidad de uso y personalización.
 </details>
@@ -250,19 +249,19 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 ---
 
 <!-- ============================================ -->
-<!-- CERTIFICACIONES Y EDUCACIÓN                  -->
+<!-- EDUCACIÓN Y CERTIFICACIONES                  -->
 <!-- ============================================ -->
 
-## 🎓 Educación & Certificaciones
+## Educación y Certificaciones
 
-### 🏫 Educación
+### Educación
 
 | Institución | Título | Estado |
 |-------------|--------|--------|
 | **Universidad de Costa Rica** | Bachillerato en Informática Empresarial | Cursando (Finaliza 02/2026) |
 | **ICOEX Instituto Técnico** | Técnico en Informática | Cursando (2026) |
 
-### 📜 Certificaciones
+### Certificaciones
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum_Fundamentals-Scrum_Study-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -276,12 +275,12 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 <!-- IDIOMAS                                      -->
 <!-- ============================================ -->
 
-## 🌍 Idiomas
+## Idiomas
 
 | Idioma | Nivel | Descripción |
 |--------|-------|-------------|
-| 🇪🇸 **Español** | Nativo | Lengua materna |
-| 🇬🇧 **Inglés** | Intermedio (B1) | Comprensión técnica, lectura/escritura profesional, conversación básica |
+| **Español** | Nativo | Lengua materna |
+| **Inglés** | Intermedio (B1) | Comprensión técnica, lectura/escritura profesional, conversación básica |
 
 ---
 
@@ -289,7 +288,7 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 <!-- ESTADÍSTICAS DE GITHUB                       -->
 <!-- ============================================ -->
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -302,13 +301,13 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 <!-- CONTACTO Y DISPONIBILIDAD                    -->
 <!-- ============================================ -->
 
-## 📬 Contacto y Disponibilidad
+## Contacto y Disponibilidad
 
 <p align="center">
-  <b>📅 Disponibilidad:</b> Inmediata<br />
-  <b>🏢 Modalidad:</b> Presencial, Híbrida o Remota<br />
-  <b>📧 Email:</b> <a href="mailto:freddysz894@gmail.com">freddysz894@gmail.com</a><br />
-  <b>📱 Teléfono:</b> +506 7020 1736
+  <b>Disponibilidad:</b> Inmediata<br />
+  <b>Modalidad:</b> Presencial, Híbrida o Remota<br />
+  <b>Email:</b> <a href="mailto:freddysz894@gmail.com">freddysz894@gmail.com</a><br />
+  <b>Teléfono:</b> +506 7020 1736
 </p>
 
 ---
@@ -318,9 +317,11 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
   
   <br /><br />
   
-  <i>⭐ "Construyendo soluciones innovadoras con código, datos e inteligencia artificial"</i>
+  <i>"Construyendo soluciones innovadoras con código, datos e inteligencia artificial"</i>
 </div>
 
 <!-- ============================================ -->
 <!-- FIN DEL README                               -->
 <!-- ============================================ -->
+
+ 
