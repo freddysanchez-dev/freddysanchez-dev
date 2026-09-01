@@ -285,14 +285,32 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 ---
 
 <!-- ============================================ -->
-<!-- ESTADÍSTICAS DE GITHUB                       -->
+<!-- ESTADÍSTICAS DE GITHUB (CORREGIDAS)          -->
 <!-- ============================================ -->
 
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freddysanchez-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=freddysanchez-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" alt="Estadísticas de GitHub" width="100%" />
+        <br />
+        <sub><i>Estadísticas generales de actividad</i></sub>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=freddysanchez-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="Racha de contribuciones" width="100%" />
+        <br />
+        <sub><i>Racha de contribuciones diarias</i></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddysanchez-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" alt="Lenguajes más usados" width="45%" />
+  <br />
+  <sub><i>Lenguajes más utilizados en mis repositorios</i></sub>
 </div>
 
 ---
@@ -323,5 +341,6 @@ Los usuarios reportaron una <b>mayor adherencia al ejercicio</b> gracias a rutin
 <!-- ============================================ -->
 <!-- FIN DEL README                               -->
 <!-- ============================================ -->
+    
 
  
