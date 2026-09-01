@@ -32,17 +32,17 @@
 <!-- PERFIL PROFESIONAL                           -->
 <!-- ============================================ -->
 
-## Sobre Mí
+## Sobre Mi
 
 > **Desarrollador Full-Stack y Analista de Datos** con +1 año de experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y soluciones de inteligencia de negocios.
 
 Especializado en el desarrollo de aplicaciones web modernas, análisis de datos e integración de inteligencia artificial. Apasionado por las metodologías ágiles, la automatización de procesos y la construcción de productos digitales de alto valor.
 
-- 🚀 **Desarrollo Web:** React, Node.js, C# .NET, PHP
-- 📊 **Análisis de Datos:** Python, Pandas, Power BI, SQL
-- 🤖 **Inteligencia Artificial:** OpenAI API, Automatización, PLN
-- 🗄️ **Bases de Datos:** SQL Server, PostgreSQL, MySQL, Oracle, MongoDB
-- 🔧 **DevOps:** Git, GitHub, Docker, CI/CD
+- **Desarrollo Web:** React, Node.js, C# .NET, PHP
+- **Análisis de Datos:** Python, Pandas, Power BI, SQL
+- **Inteligencia Artificial:** OpenAI API, Automatización, PLN
+- **Bases de Datos:** SQL Server, PostgreSQL, MySQL, Oracle, MongoDB
+- **DevOps:** Git, GitHub, Docker, CI/CD
 
 ---
 
@@ -52,7 +52,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 
 ## Stack Tecnológico
 
-### 🚀 Lenguajes de Programación
+### Lenguajes de Programación
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -64,7 +64,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧩 Frameworks y Librerías
+### Frameworks y Librerías
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -74,7 +74,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -84,7 +84,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Data y Business Intelligence
+### Data y Business Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -92,7 +92,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
   <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 🔧 DevOps y Control de Versiones
+### DevOps y Control de Versiones
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -101,12 +101,11 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 📘 Metodologías
+### Metodologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Code-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TDD-FF6C37?style=for-the-badge" />
 </p>
 
 ---
@@ -150,7 +149,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 ### Abarcasas - Simulación Logística
 *Universidad de Costa Rica | 04/2025*
 
-**Descripción:** Sistema de simulación de eventos discretos para optimizar procesos logísticos, procesando más de 1,000 eventos por ejecución y generando dashboards interactivos para la toma de decisiones.
+**Descripcion:** Sistema de simulación de eventos discretos para optimizar procesos logísticos, procesando más de 1,000 eventos por ejecución y generando dashboards interactivos para la toma de decisiones.
 
 **Tecnologías:** Node.js, JavaScript, HTML, CSS, Monte Carlo
 
@@ -161,7 +160,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 ### PowerGym - Plataforma de Recomendación de Ejercicios con IA
 *Universidad de Costa Rica | 04/2025 - 06/2025*
 
-**Descripción:** Plataforma web que genera rutinas de ejercicio personalizadas usando inteligencia artificial (OpenAI GPT), adaptadas a las condiciones físicas de cada usuario para prevenir lesiones y maximizar resultados.
+**Descripcion:** Plataforma web que genera rutinas de ejercicio personalizadas usando inteligencia artificial (OpenAI GPT), adaptadas a las condiciones físicas de cada usuario para prevenir lesiones y maximizar resultados.
 
 **Tecnologías:** C# .NET, Entity Framework, OpenAI API, JavaScript, HTML, CSS
 
@@ -172,7 +171,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 ### DataLab EDA - Análisis Exploratorio de Datos
 *Proyecto Personal | 2025*
 
-**Descripción:** Aplicación de escritorio profesional para análisis exploratorio de datos (EDA) con interfaz gráfica moderna. Ofrece limpieza auditable, estadísticas descriptivas, detección de outliers y dashboards interactivos.
+**Descripcion:** Aplicación de escritorio profesional para análisis exploratorio de datos (EDA) con interfaz gráfica moderna. Ofrece limpieza auditable, estadísticas descriptivas, detección de outliers y dashboards interactivos.
 
 **Tecnologías:** Python, Pandas, Matplotlib, Tkinter, Seaborn
 
@@ -182,11 +181,11 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 <!-- EDUCACIÓN Y CERTIFICACIONES                  -->
 <!-- ============================================ -->
 
-## Educación y Certificaciones
+## Educacion y Certificaciones
 
-### Educación
+### Educacion
 
-| Institución | Título | Estado |
+| Institucion | Titulo | Estado |
 |-------------|--------|--------|
 | **Universidad de Costa Rica** | Bachillerato en Informática Empresarial | Cursando (Finaliza 02/2026) |
 | **ICOEX Instituto Técnico** | Técnico en Informática | Cursando (2026) |
@@ -207,7 +206,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 
 ## Idiomas
 
-| Idioma | Nivel | Descripción |
+| Idioma | Nivel | Descripcion |
 |--------|-------|-------------|
 | **Español** | Nativo | Lengua materna |
 | **Inglés** | Intermedio (B1) | Comprensión técnica, lectura/escritura profesional, conversación básica |
