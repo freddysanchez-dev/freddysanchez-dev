@@ -188,7 +188,7 @@ Especializado en el desarrollo de aplicaciones web modernas, análisis de datos 
 | Institucion | Titulo | Estado |
 |-------------|--------|--------|
 | **Universidad de Costa Rica** | Bachillerato en Informática Empresarial | Cursando (Finaliza 02/2026) |
-| **ICOEX Instituto Técnico** | Técnico en Informática | Cursando (2026) |
+| **ICOEX Instituto Técnico** | Analisis de Datos | Cursando (2026) |
 
 ### Certificaciones
 
